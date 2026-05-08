@@ -1,4 +1,4 @@
-#Web aplikacija za ankete pomoću Phantom wallet-a
+#Web aplikacija za ankete pomoću Phantom wallet-a#\n
 Web aplikacija razvijena tijekom hackathona koja koristi blockchain autentifikaciju putem Phantom Walleta za registraciju korisnika, sudjelovanje u glasanju i online anketama.
 
 Projekt demonstrira integraciju decentralizirane autentifikacije i modernog web developmenta koristeći Solana blockchain ekosustav.
